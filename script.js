@@ -27,7 +27,7 @@ const weapons = [
 const monsters = [
   { name: "slime 🦠", level: 2, health: 20 },
   { name: "fanged beast 🐺", level: 8, health: 70 },
-  { name: "dragon 🐉", level: 20, health: 250 }
+  { name: "dragon 🐦‍🔥", level: 20, health: 250 }
 ];
 
 const locations = [
@@ -128,14 +128,16 @@ function goCave() {
 }
 
 function buyHealth() {
-  if (gold >= 10) {
+  if (health===100){
+    text.textContent = "Your health is MAX";
+  }else if (gold >= 10) {
     gold -= 10;
     health = Math.min(100, health + 10);
     goldText.textContent = gold;
     healthText.textContent = health;
     updateHealthBars();
     text.textContent = `Health restored to ${health}!`;
-  } else {
+  }else {
     text.textContent = "You need 10 gold to buy health!";
   }
 }
