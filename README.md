@@ -1,6 +1,6 @@
- Dragon Repeller - RPG Game
+Dragon-Quest - RPG Game
 
-Dragon Repeller is a simple RPG game where you battle against monsters to save the town from the dragon. The game lets you explore different locations, manage your stats (health, gold, XP), and engage in turn-based combat.
+Dragon-Quest is a simple RPG game where you battle against monsters to save the town from the dragon. The game lets you explore different locations, manage your stats (health, gold, XP), and engage in turn-based combat.
 
  Features
 - **Player Stats:** Track health, gold, and experience points (XP).
