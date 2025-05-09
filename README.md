@@ -16,7 +16,4 @@ You start in a town with the goal of defeating the dragon that's preventing peop
 3. **Track your progress** through health and gold.
 4. **Defeat the dragon** to win the game!
 
-📸 Preview 🔗 You can try the game[here]([https://your-live-game-link.com](https://amarko-med.github.io/RBG-Game/))
-
-
- 
+📸 Preview 🔗 You can try the game[here](https://amarko-med.github.io/RBG-Game/)
